@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakshith S N</h1>
-<h3 align="center">A passionate Fullstack Javascript Developer from India</h3>
+<h3 align="center">A passionate Fullstack Javascript Developer </h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snrakshith" alt="snrakshith" /></a> </p> -->
 
 - 🔭 I’m currently working on [cschool](https://github.com/snrakshith/cschool)
 
-- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **snrakshith.97@gmail.com**
 
