@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshith S N</h1>
-<h3 align="center">A passionate Fullstack Javascript Developer </h3>
+<h3 align="center">A passionate Javascript Developer </h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snrakshith" alt="snrakshith" /></a> </p> -->
 
