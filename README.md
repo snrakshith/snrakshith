@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rakshith S N</h1>
-<h3 align="center">A Passionate Developer with a Current Focus on Innovative Frontend and Node.js Backend Solutions, and an Interest in Product Architecture</h3>
+<h3 align="center">Full Stack Developer Specializing in Advanced Frontend and Node.js Backend Solutions, Passionate About Shaping Product Architecture</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snrakshith" alt="snrakshith" /></a> </p> -->
 
 - 🔭 I’m currently working on [@xlox/ui](https://github.com/snrakshith/xlox-ui)
-- 🌍 [My Weblink](https://snrakshith.github.io/)
-
 - 📫 How to reach me **snrakshith.97@gmail.com**
 ## Skills 🛠️
- - Languages: Javascript 
+ - Languages: Javascript, Typescript
  - Frameworks / Libraries: React , Node.js, Express
- - DBMS: MongoDB, MS SQL 
- - DevOps: Linux, Git, Docker, RestAPI, CI
+ - DBMS: MongoDB, Postgress 
+ - DevOps: Linux, Git, Docker, RestAPI, CI/CD, Github Actions, K8s, Grafana, Keycloak, Kong API Gateway, Prometheus
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snrakshith&show_icons=true&locale=en&layout=compact" alt="snrakshith" /></p> -->
 
