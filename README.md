@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshith </h1>
 
 ## 💫 About me:
-<h3 align="center">Fullstack Javascript developer specializing in  React and Node.js, Passionate about shaping Product Architecture</h3>
+<h3 align="center">AI Engineer & MERN Stack Architect | Building the Future of Intelligent Applications</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snrakshith" alt="snrakshith" /></a> </p> -->
 
@@ -13,6 +13,8 @@
  - Frameworks / Libraries: React , Node.js, Express
  - DBMS: MongoDB, Postgress 
  - DevOps: Linux, Git, Docker, RestAPI, CI/CD, Github Actions, K8s, Grafana, Keycloak, Kong API Gateway, Prometheus
+ - MLOps: MLflow , DVC
+ - AI: Numpy, Pandas, Seaborn, Langchain, LangGraph
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snrakshith&show_icons=true&locale=en&layout=compact" alt="snrakshith" /></p> -->
 
